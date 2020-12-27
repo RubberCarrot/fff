@@ -1,0 +1,11 @@
+17:50:07.850 [main] DEBUG com.epam.jwd.figure.app.Runner - started
+17:50:07.854 [main] INFO  com.epam.jwd.figure.app.Runner - Point{axisX=39.41495494954142, axisY=77.41095095269921}
+17:50:07.855 [main] INFO  com.epam.jwd.figure.app.Runner - Point{axisX=25.118350932262032, axisY=21.108785951187166}
+17:50:07.855 [main] INFO  com.epam.jwd.figure.app.Runner - Point{axisX=18.423641624879824, axisY=57.59835694538826}
+17:50:07.855 [main] INFO  com.epam.jwd.figure.app.Runner - Point{axisX=0.7501638716650018, axisY=40.881311304913936}
+17:50:07.856 [main] INFO  com.epam.jwd.figure.app.Runner - Line{point1=Point{axisX=39.78852036017688, axisY=67.71200064321323}, point2=Point{axisX=14.05425219469244, axisY=23.695327593032335}}
+17:50:07.857 [main] INFO  com.epam.jwd.figure.app.Runner - Line{point1=Point{axisX=3.572284593382765, axisY=77.64737237924983}, point2=Point{axisX=36.952617920658604, axisY=6.433074806446239}}
+17:50:07.857 [main] INFO  com.epam.jwd.figure.app.Runner - Triangle{point1=Point{axisX=5.765485218015706, axisY=23.66912501686435}, point2=Point{axisX=13.677256730945256, axisY=46.10606013955629}, point3=Point{axisX=28.983751652032666, axisY=10.717175642508522}}
+17:50:07.857 [main] INFO  com.epam.jwd.figure.app.Runner - Triangle{point1=Point{axisX=56.231497094218824, axisY=3.4759415990007825}, point2=Point{axisX=81.3581691275056, axisY=25.48731729159521}, point3=Point{axisX=70.07433503908159, axisY=62.665067966316315}}
+17:50:07.857 [main] INFO  com.epam.jwd.figure.app.Runner - Square{point1=Point{axisX=46.12475475166795, axisY=50.673427682613365}, point2=Point{axisX=61.28120790185074, axisY=91.86449889935463}, point3=Point{axisX=6.196768159766189, axisY=67.86699665929129}, point4=Point{axisX=33.0397688193344, axisY=97.47374740227106}}
+17:50:07.857 [main] DEBUG com.epam.jwd.figure.app.Runner - finished
